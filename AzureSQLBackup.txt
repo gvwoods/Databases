@@ -1,0 +1,10 @@
+We can restore a database to any point in time. A full backup is created automatically after the database creation. 
+
+	Full backups are created once a week
+    Differential backups are created every hour
+    Transaction log backups every 5 minutes.
+
+
+Retention period of backups
+7 days for the Basic Databases
+35 days for Standard and Premium databases 
